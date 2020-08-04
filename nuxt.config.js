@@ -1,6 +1,5 @@
 export default {
   mode: "universal",
-
   head: {
     title: "Chakra UI Vue Starter",
     meta: [
@@ -18,6 +17,5 @@ export default {
   modules: [
     "@chakra-ui/nuxt", // register the chakra nuxt package
     "@nuxtjs/emotion", // register the emotion package which is being used by chakra-ui-vue
-    // Doc: https://http.nuxtjs.org
   ],
 };
