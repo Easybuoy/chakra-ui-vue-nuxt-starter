@@ -15,7 +15,7 @@ export default {
   },
 
   modules: [
-    "@chakra-ui/nuxt", // register the chakra nuxt package
+    "@chakra-ui/nuxt", // register the chakra-ui nuxt package
     "@nuxtjs/emotion", // register the emotion package which is being used by chakra-ui-vue
   ],
 };
